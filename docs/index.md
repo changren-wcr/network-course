@@ -45,7 +45,7 @@ permalink: /
 [UCPClient](./code/UDPClient.py)
 [UDPServer](./code/UDPServer.py)
 [TCPServer](./code/TCPServer.py)
-[TCPServer](./code/TCPServer.py)
+[TCPClient](./code/TCPClient.py)
 </td>
 <td markdown="span">[磁力下载](./video/bittorrent.mp4) <br> [比特币](./video/bitcoin.mp4)</td>
 </tr>
