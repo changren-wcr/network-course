@@ -51,7 +51,13 @@ permalink: /
 [TCPServer](./code/TCPServer.py)
 [TCPClient](./code/TCPClient.py)
 </td>
-<td markdown="span">[磁力下载](./video/bittorrent.mp4) <br> [比特币](./video/bitcoin.mp4)</td>
+<td markdown="span">
+[应用层：socket编程与P2P（课堂录像）](https://www.bilibili.com/video/BV18841147w4/)
+<br>
+[磁力下载](./video/bittorrent.mp4)
+<br>
+[比特币](./video/bitcoin.mp4)
+</td>
 </tr>
 </tbody>
 </table>
