@@ -41,7 +41,11 @@ permalink: /
 <tr>
 <td markdown="span">2022.9.25 第三周</td>
 <td markdown="span">[应用层 2](./slide/week3.pdf)</td>
-<td markdown="span">下载程序做实验  
+<td markdown="span">下载程序做实验
+软件：
+[wireshark](https://www.wireshark.org/)
+[pycharm](https://www.jetbrains.com/pycharm/)
+代码：
 [UCPClient](./code/UDPClient.py)
 [UDPServer](./code/UDPServer.py)
 [TCPServer](./code/TCPServer.py)
