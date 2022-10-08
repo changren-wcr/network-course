@@ -10,54 +10,9 @@ permalink: /
 - [教材下载地址](./textbook)
 - [在线作业](./homework)
 
-<table>
-<colgroup>
-<col width="20%" />
-<col width="20%" />
-<col width="30%" />
-<col width="30%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>日期</th>
-<th>课件</th>
-<th>作业</th>
-<th>资料</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td markdown="span">2022.9.4 第一周 </td>
-<td markdown="span">[计算机网络概述](./slide/week1.pdf)</td>
-<td markdown="span">注册[在线作业平台](./homework) </td>
-<td markdown="span"></td>
-</tr>
-<tr>
-<td markdown="span">2022.9.18 第二周</td>
-<td markdown="span">[应用层](./slide/week2.pdf)</td>
-<td markdown="span">注册[在线作业平台](./homework)</td>
-<td markdown="span"></td>
-</tr>
-<tr>
-<td markdown="span">2022.9.25 第三周</td>
-<td markdown="span">[应用层 2](./slide/week3.pdf)</td>
-<td markdown="span">下载程序做实验
-软件：
-[wireshark](https://www.wireshark.org/)
-[pycharm](https://www.jetbrains.com/pycharm/)
-代码：
-[UCPClient](./code/UDPClient.py)
-[UDPServer](./code/UDPServer.py)
-[TCPServer](./code/TCPServer.py)
-[TCPClient](./code/TCPClient.py)
-</td>
-<td markdown="span">
-[应用层：socket编程与P2P（课堂录像）](https://www.bilibili.com/video/BV18841147w4/)
-<br>
-[磁力下载](./video/bittorrent.mp4)
-<br>
-[比特币](./video/bitcoin.mp4)
-</td>
-</tr>
-</tbody>
-</table>
+| 日期              | 课件                                | 作业                                                                                                                                                                                                                                                                                                                                                               | 资料                                                                                                                                                                                                                                                                                                                                                                                          |
+| ----------------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022.9.4 第一周   | [计算机网络概述](./slide/week1.pdf) | 注册[在线作业平台](./homework)                                                                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                               |
+| 2022.9.18 第二周  | [应用层](./slide/week2.pdf)         | 注册[在线作业平台](./homework)                                                                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                               |
+| 2022.9.25 第三周  | [应用层 2](./slide/week3.pdf)       | {::nomarkdown}下载程序做实验 <ul><li>软件：<a href="https://www.wireshark.org/">wireshark</a> <a href="https://www.jetbrains.com/pycharm/">pycharm</a></li><li>代码：<a href="./code/UDPClient.py">UCPClient</a> <a href="./code/UDPServer.py">UDPServer</a> <a href="./code/TCPServer.py">TCPServer</a> <a href="./code/TCPClient.py">TCPClient</a></li></ul>{:/} | {::nomarkdown}<ul><li><a href="https://www.bilibili.com/video/BV18841147w4/">应用层：socket 编程与 P2P（课堂录像）</a></li><li><a href="./video/bittorrent.mp4">磁力下载（视频）</a></li><li><a href="./video/bitcoin.mp4">比特币（视频）</a></li></ul>{:/}                                                                                                                                   |
+| 2022.10.16 第四周 | [传输层](./slide/week4.pdf)         | {::nomarkdown}<ul><li>使用第三周的软件和程序模拟丢包，观察 TCP 和 UDP 的异同</li><li>完成<a href="https://www.examcoo.com/class/homework/index/cid/625632">作业一</a>（还没注册作业平台的先前往<a href="./homework">在线作业</a>完成注册）</li></ul>{:/}                                                                                                           | {::nomarkdown}<ul><li><a href="https://media.pearsoncmg.com/aw/ecs_kurose_compnetwork_7/cw/content/interactiveanimations/go-back-n-protocol/index.html">Go-Back-N Protocol 动画演示</a></li><li><a href="https://media.pearsoncmg.com/aw/ecs_kurose_compnetwork_7/cw/content/interactiveanimations/selective-repeat-protocol/index.html">Selective Repeat Protocol 动画演示</a></li></ul>{:/} |
